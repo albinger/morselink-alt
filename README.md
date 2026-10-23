@@ -1,5 +1,7 @@
 This code was created to provide an alternative firmware to the aliexpress "CW Key Trainer Adapter Type-C USB Vband Morse Code Training for Computer Connector MorseLink Amateur HAM Radio Telegraph" device.
 
+[![morselink-alt photo](media/morselink-alt.jpg)](media/morselink-alt.jpg)
+
 This name was chosen because the device identifies itself on USB as a "morselink" when you go to reflash it.
 
 I'm not affiliated with aliexpress or the creator of this device.  I just worked out what pins were connected where on the CH552G chip and wrote this very basic code to make it generate a proper left and right control key when the iambic paddles are pressed.
